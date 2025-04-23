@@ -1,6 +1,3 @@
-Claro! Aqui está o README.md pronto para copiar e colar diretamente no seu repositório:
-
-```markdown
 # 📊 Pipeline de Dados: Integração com Python, MongoDB e MySQL
 
 Este projeto demonstra a construção de um pipeline de dados completo utilizando Python para integrar bancos de dados NoSQL (MongoDB) e relacionais (MySQL). O pipeline realiza o processo de ETL (Extração, Transformação e Carga), facilitando a movimentação e transformação de dados entre diferentes fontes.
@@ -110,6 +107,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 ## 📄 Licença
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
-```
-
-Se quiser, posso também gerar o `requirements.txt` com as bibliotecas citadas, ou te ajudar a montar o `etl_pipeline.py`. Só avisar!
